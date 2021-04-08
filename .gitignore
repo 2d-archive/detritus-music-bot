@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Obsidian jar file
+Obsidian.jar
+
+# IntelliJ IDE Settings
+.idea/
